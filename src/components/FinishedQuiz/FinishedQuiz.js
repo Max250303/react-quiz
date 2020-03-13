@@ -43,7 +43,7 @@ const FinishedQuiz = props => {
         <Link to="/">
           <Button type="success">Перейти в список тестов</Button>
         </Link>
-      </div>
+      </div>f
     </div>
   )
 }
